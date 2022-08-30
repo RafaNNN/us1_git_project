@@ -5,5 +5,7 @@ public class Login {
         // user fields
 
         // I am developing, working on a project
+
+        //User class has been completed
     }
 }
